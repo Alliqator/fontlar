@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'acidicregular';
+    src: url('acidic-webfont.eot');
+    src: url('acidic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('acidic-webfont.woff2') format('woff2'),
+         url('acidic-webfont.woff') format('woff'),
+         url('acidic-webfont.ttf') format('truetype'),
+         url('acidic-webfont.svg#acidicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
